@@ -1,7 +1,6 @@
 # Hi there 👋
 I'm Manuel, a **Computer Engineering** student from Italy, studying at UNIPD
-- 🌱 I’m working on my thesis
-- 💬 Passion for AI/ML with knowledge of generative models
+- 🌱 Passion for AI/ML with knowledge of generative models
 - 🫡 I'm looking for internships in **AI/ML, computer vision and automation** while I complete my studies
 
 ## 🤖 Most used languages and tools
